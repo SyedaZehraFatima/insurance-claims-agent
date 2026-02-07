@@ -1,0 +1,8 @@
+Policy Number: PN12345
+Policyholder Name: Amit Sharma
+Date of Loss: 12/01/2026
+Time: 14:30
+Location of Loss: Mumbai
+Description of Accident: Minor collision, no injury
+Claim Type: vehicle
+Estimated Damage: 18000
